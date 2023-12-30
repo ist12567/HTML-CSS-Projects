@@ -1,0 +1,201 @@
+p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.tahome-font {
+    font-family: "Tahoma";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.deals-text {
+    font-family: "Arial";
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.end-text {
+    font-family: "Arial";
+    font-size: 16px;
+    color: red;
+    font-style: italic;
+}
+
+.title-text {
+    font-family: "Verdana";
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.short-description {
+    font-family: "Verdana";
+    font-size: 14px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 25px;
+}
+
+.long-description {
+    font-family: "Verdana";
+    font-size: 14px;
+    width: 260px;
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+.get-started-button {
+    font-family: "Verdana";
+    font-size: 14px;
+    color: white;
+    background-color: green;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.shopping-text {
+    font-family: "Arial";
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.apple-description {
+    font-family: "Arial";
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.learn-more-text {
+    font-family: "Arial";
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: dodgerblue;
+}
+
+.new-text {
+    font-family: "Arial";
+    font-size: 16px;
+    font-weight: bold;
+    color: orangered;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.macbook-text {
+    font-family: "Arial";
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.pros-text {
+    font-family: "Arial";
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.price-text {
+    font-family: "Arial";
+    font-size: 16px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(96, 96, 96);
+    margin-bottom: 16px;
+}
+
+.buy-p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.buy-span {
+    font-family: "Arial";
+    font-size: 14px;
+    color: white;
+    background-color: dodgerblue;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 16px;
+    cursor: pointer;
+}
+
+.price-area {
+    font-family: "Arial";
+    font-size: 46px;
+    margin-bottom: 8px;
+}
+
+.currency {
+    font-size: 24px;
+    color: rgb(96, 96, 96);
+    margin-left: 15px;
+}
+
+.change-area {
+    font-family: "Arial";
+    font-size: 16px;
+    color: green;
+    margin-bottom: 8px;
+}
+
+.summary-area {
+    font-family: "Arial";
+    font-size: 16px;
+    color: rgb(96, 96, 96);
+    margin-bottom: 8px;
+}
+
+.change-span {
+    font-size: 16px;
+    color: red;
+    margin-left: 5px;
+}
+
+.header-free-code-camp {
+    font-family: Arial;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.user-free-code-camp {
+    font-family: Arial;
+    font-size: 24px;
+    color: rgb(96, 96, 96);
+    font-weight: normal;
+}
+
+.oneh-free-code-camp {
+    font-family: Arial;
+    font-size: 24px;
+    color: rgb(96, 96, 96);
+    font-weight: normal;
+    margin-left: 5px;
+}
+
+.discription-free-code-camp,
+.detail-free-code-camp {
+    font-family: Arial;
+    font-size: 22px;
+    margin-bottom: 16px;
+}
+
+.related-free-code-camp {
+    color: dodgerblue;
+}

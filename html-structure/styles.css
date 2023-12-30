@@ -1,0 +1,21 @@
+p {
+    font-family: Montserrat;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.header {
+    font-weight: bold;
+    font-size: 60px;
+    padding: 20px;
+    text-align: center;
+}
+
+.description {
+    font-size: 24px;
+    text-align: center;
+}
+
+.touchless-delivery {
+    text-decoration: underline;
+}
